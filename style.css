@@ -328,4 +328,6 @@ html {
 .back-to-top:hover{
   background: #313131;
   color: #f4b400;
+  transition: 0.15s ease-in-out;
 }
+
